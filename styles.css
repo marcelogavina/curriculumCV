@@ -79,12 +79,36 @@ h5{
     display: flex;
     justify-content: left;
     align-items: center;
-    width: 340px;
-    height: 110px;
+    width: 330px;
+    height: 130px;
     font-size:  17px;
-    border-left: solid #243429  60px;
+    border-left: solid #243429  70px;
 }
 
+.icono1{
+    
+    width: 35px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
+.icono2{
+    
+    width: 35px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
+.icono3{
+    
+    width: 35px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
 .contenedor-contacto{
     background-color: #243429;
     color: #ecede7;
@@ -92,24 +116,62 @@ h5{
     flex-direction: row;
     justify-content: left;
     align-items: center;
-    width: 340px;
+    width: 330px;
     height: 300px;
     font-size:  17px;
-    border-left: solid #243429  60px;
+    border-left: solid #243429  70px;
 }
-
+.icono4{
+    
+    width: 35px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
+.icono5{
+    
+    width: 35px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
+.icono6{
+    
+    width: 35px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
+.icono7{
+    
+    width: 30px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
 .contenedor-conocimientos{
     background-color: #243429;
     color: #ecede7;
     display: flex;
     justify-content: space-around;
     align-items: top;
-    width: 340px;
+    width: 350px;
     height: 700px;
     font-size:  17px;
-    border-left: solid #243429  60px;
+    border-left: solid #243429  50px;
 }
-
+.icono8{
+    
+    width: 35px; 
+    height: 25px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
 .contenedor-habilidades{
     background-color: #243429;
     color: #ecede7;
@@ -120,6 +182,14 @@ h5{
     height: 200px;
     font-size:  17px;
     border-left: solid #243429  60px;
+}
+.icono9{
+    
+    width: 30px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
 }
 .contenedor-idiomas{
     background-color: #243429;
@@ -132,17 +202,32 @@ h5{
     font-size:  17px;
     border-left: solid #243429  60px;
 }
-
+.icono10{
+    
+    width: 30px; 
+    height: 20px;
+    align-items: end;
+    align-self: right;
+    border-top: solid #243429;
+}
 .contenedor-article{
     background-color: #ecede7 ;
     display: flex;
     flex-direction: row;
     justify-content: left;
     align-items: center;
+    text-align: justify;
     width: 600px;
-    height: 110px;     
+    height: 130px;     
 }
-
+.icono11{
+    background-color: #ecede7;
+    width: 40px; 
+    height: 30px;
+    align-items: end;
+    align-self: right;
+    
+}
 .div-sangria-objetivo{
     border-left: solid #ecede7 50px;
     border-right: solid #ecede7 50px;
@@ -160,6 +245,14 @@ h5{
     width: 550px;
     height: 300px;
 }
+.icono12{
+    background-color: #ecede7;
+    width: 40px; 
+    height: 30px;
+    align-items: end;
+    align-self: right;
+    
+}
 .div-sangria-formacion{
     border-left: solid #ecede7 50px;
 }
@@ -175,6 +268,14 @@ h5{
     text-align: justify;
     width: 550px;
     height: 700px;  
+}
+.icono13{
+    background-color: #ecede7;
+    width: 40px; 
+    height: 30px;
+    align-items: end;
+    align-self: right;
+    
 }
 .div-sangria-experiencia{
     border-left: solid #ecede7 50px;
